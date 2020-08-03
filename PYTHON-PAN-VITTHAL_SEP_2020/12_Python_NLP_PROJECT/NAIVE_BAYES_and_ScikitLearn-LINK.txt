@@ -1,0 +1,7 @@
+
+
+https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/
+
+
+
+https://scikit-learn.org/stable/tutorial/index.html
